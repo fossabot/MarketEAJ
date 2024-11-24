@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMarketEAJ%2FMarketEAJ.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMarketEAJ%2FMarketEAJ?ref=badge_shield)
+
 Sistema de Control de Ventas e Inventario para Bodega EAJ
 
 Este proyecto consiste en una plataforma web diseñada para optimizar la gestión de ventas e inventario en "Bodega EAJ", un market con más de 35 años de experiencia en la comercialización mayorista y minorista de bebidas alcohólicas y refrescos. La plataforma integra todos los procesos comerciales, proporcionando un control en tiempo real de inventarios y facilitando la gestión eficiente de ventas y relaciones con proveedores.
@@ -23,3 +25,7 @@ c: maria
 u: angel
 c: angel
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMarketEAJ%2FMarketEAJ.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMarketEAJ%2FMarketEAJ?ref=badge_large)
